@@ -1,8 +1,6 @@
 /*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+Author: TechWall
+Author URL: http://techwall.com
 --*/
 html, body{
 	margin:0;
@@ -77,7 +75,7 @@ label{
 .banner-top-w3-agile ul li span {
     color: #c5c5c5;
     font-size: 13px!important;
-    letter-spacing: 6px;
+    letter-spacing: 4px;
 }
 .banner-top-w3-agile ul li:hover {
     background: rgba(253, 105, 0, 0.19);
