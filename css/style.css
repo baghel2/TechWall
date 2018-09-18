@@ -1459,7 +1459,7 @@ textarea:focus{
 /*--Map --*/
 .contact-w3ls {
     position: relative;
-    padding-bottom: 17em!important;
+    padding-bottom: 1em!important;
     background: #f2d701;
 }
 .contact-map-w3l iframe {
@@ -2167,7 +2167,7 @@ border:2px solid #f85993;
 		bottom: -17.5em;
 	}
 	.contact-w3ls {
-		padding-bottom: 26.5em!important;
+		padding-bottom: 1.5em!important;
 	}
 	.footer {
 		padding-top: 20em!important;
@@ -2342,7 +2342,7 @@ border:2px solid #f85993;
 		padding: 2.5em;
 	}
 	.contact-w3ls {
-		padding-bottom: 24.5em!important;
+		padding-bottom: 1.5em!important;
 	}
 }
 @media(max-width:736px){
@@ -2374,7 +2374,7 @@ border:2px solid #f85993;
 		font-size: 13.5px;
 	}
 	.contact-w3ls {
-		padding-bottom: 25.5em!important;
+		padding-bottom: 1.5em!important;
 	}
 }
 @media(max-width:667px){
@@ -2466,7 +2466,7 @@ border:2px solid #f85993;
 		float: NONE;
 	}
 	.contact-w3ls {
-		padding-bottom: 29.5em!important;
+		padding-bottom: 2em!important;
 	}
 	.w3layouts_gallery_grid1_pos p {
 		font-size: 11px;
@@ -2698,7 +2698,7 @@ border:2px solid #f85993;
 		margin-bottom: 0px;
 	}
 	.contact-w3ls {
-		padding-bottom: 28em!important;
+		padding-bottom: 2em!important;
 	}
 	.contact-agile {
 		bottom: -18.3em;
@@ -2753,7 +2753,7 @@ border:2px solid #f85993;
 		margin: 2em 0 0em;
 	}
 	.contact-w3ls {
-		padding-bottom: 27.5em!important;
+		padding-bottom: 1.5em!important;
 	}
 	.layer h3, .layer p, .bnr-butn-w3ls {
 		padding-left: 10.5%!important;
@@ -2795,7 +2795,7 @@ border:2px solid #f85993;
 		left: 38%;
 	}
 	.contact-w3ls {
-		padding-bottom: 29em!important;
+		padding-bottom: 2em!important;
 	}
 	.contact-agile {
 		left: 2em;
@@ -2922,7 +2922,7 @@ border:2px solid #f85993;
 		left: 1.5em;
 	}	
 	.contact-w3ls {
-		padding-bottom: 26em!important;
+		padding-bottom: 1.5em!important;
 	}
 	.footer-grids ul.footer-news-agileits li {
 		padding: 0 0em 1em 0em;
