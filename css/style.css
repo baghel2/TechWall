@@ -972,8 +972,8 @@ li.nbs-flexisel-item img {
 
 .ih-item.circle {
   position: relative;
-  width: 220px;
-  height: 220px;
+  width: 150px;
+  height: 150px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -983,8 +983,8 @@ li.nbs-flexisel-item img {
 }
 .ih-item.circle .img {
   position: relative;
-  width: 220px;
-  height: 220px;
+  width: 150px;
+  height: 150px;
    -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -2251,12 +2251,12 @@ border:2px solid #f85993;
 		top: 80.5% !important;
 	}
 	.ih-item.circle .img {
-		width: 200px;
-		height: 200px;
+		width: 120px;
+		height: 120px;
 	}
 	.ih-item.circle{		
-		width: 200px;
-		height: 200px;
+		width: 120px;
+		height: 120px;
 	}
 	.ih-item.circle.effect3 .info h3 {
 		padding: 2.8em 0 0.8em;
