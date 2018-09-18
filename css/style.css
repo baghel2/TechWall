@@ -1470,7 +1470,7 @@ textarea:focus{
 /*-- //Map--*/
 /*--footer--*/
 .footer {
-    padding-top: 15em!important;
+    padding-top: 2em!important;
 }
 .footer h4 {
     margin:0 0 .5em;
@@ -1796,7 +1796,7 @@ border:2px solid #f85993;
 		left: 11.2em;
 	}
 	.footer {
-		padding-top: 14em!important;
+		padding-top: 2em!important;
 	}
 	.get-top-agileits-w3layouts {
 		margin-bottom: 2em;
@@ -2170,7 +2170,7 @@ border:2px solid #f85993;
 		padding-bottom: 1.5em!important;
 	}
 	.footer {
-		padding-top: 20em!important;
+		padding-top: 3em!important;
 	}
 	.get-top-agileits-w3layouts ul li a {
 		font-size: 13px;
